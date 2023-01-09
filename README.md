@@ -45,8 +45,5 @@
 </p>
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcoronado&show_icons=true&locale=en&layout=compact" alt="gabrielcoronado" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcoronado&show_icons=true&locale=en" alt="gabrielcoronado" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielcoronado&" alt="gabrielcoronado" /></p>
