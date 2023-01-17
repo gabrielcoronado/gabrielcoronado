@@ -8,7 +8,7 @@
 
 - 💼 All of my projects are available **<a href="https://gabrielcoronado.com/" target="_blank"> Here</a>** 
 
-- 📫 How to reach me **<a href="https://www.linkedin.com/in/gabrielecoronado/" target="_blank"> Here</a>**
+- 📫 How to reach me **<a href="mailto: gaenco@yahoo.com"> Here</a>**
 
 - 👨‍💻 My LinkedIn profile is **<a href="https://www.linkedin.com/in/gabrielecoronado/" target="_blank"> Here</a>**
 <br><br><br><br>
