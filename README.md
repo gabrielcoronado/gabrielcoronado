@@ -4,7 +4,7 @@
 
 <br><br><br>
 
-- 🌱 I’m currently learning **React Native.**
+- 🌱 I’m currently learning **Next.js & React Native.**
 
 - 💼 All of my projects are available **<a href="https://gabrielcoronado.com/" target="_blank"> Here</a>** 
 
