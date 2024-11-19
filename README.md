@@ -8,7 +8,7 @@
 
 - 👨‍💻 My LinkedIn profile is **<a href="https://www.linkedin.com/in/gabrielecoronado/" target="_blank"> Here</a>**
 
-<br><br><br><br>
+<br><br><br><br><br><br>
 
 <!-- ---
 <h3 align="left">Languages and Tools:</h3>
