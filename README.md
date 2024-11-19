@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gabriel.</h1>
-<h3 align="center">A passionate Full Stack Developer based in Montreal.</h3>
+<h3 align="center">A Software Engineer based in Montreal.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<br><br><br>
+<br><br><br><br>
 
 - 📫 How to reach me **<a href="mailto: gaenco@yahoo.com"> Here</a>**
 
@@ -10,7 +10,7 @@
 
 <br><br><br><br>
 
----
+<!-- ---
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -38,10 +38,10 @@
   &nbsp;
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
   &nbsp;
-</p>
+</p> -->
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcoronado&show_icons=true&locale=en&layout=compact" alt="gabrielcoronado" />
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcoronado&show_icons=true&locale=en" alt="gabrielcoronado" /></p>
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gabrielcoronado&show_icons=true&locale=en&layout=compact" alt="gabrielcoronado" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielcoronado&show_icons=true&locale=en" alt="gabrielcoronado" /></p> -->
 
